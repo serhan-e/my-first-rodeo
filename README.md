@@ -1,2 +1,2 @@
 # my-first-rodeo
-yaraklar diyarına hoşgeldiniz
+sikikler diyarına hoşgeldiniz
