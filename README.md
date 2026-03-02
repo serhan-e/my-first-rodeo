@@ -1,2 +1,3 @@
 # my-first-rodeo
-sikikler diyarına hoşgeldiniz
+
+bu bölümde proje detaylarına yer verilir.
